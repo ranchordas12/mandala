@@ -24,7 +24,7 @@ define('MAX_FILE_BYTES', 8 * 1024 * 1024); // 8 MB
 define('ALLOWED_MIME', ['image/jpeg', 'image/png', 'image/webp']);
 
 // ── SITE ──────────────────────────────────────────────────
-define('SITE_URL', 'https://ghimireaastha.com.np');
+define('SITE_URL', 'https://ghimireaastha.infinityfree.me');
 
 // ── DB CONNECTION (singleton) ─────────────────────────────
 function db(): PDO {
